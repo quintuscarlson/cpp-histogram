@@ -26,19 +26,19 @@ This project implements a simple histogram data structure that reads integer val
 
 ## File Requirements
 Provide a text file containing integers from 1–9 separated by newlines. Example:
-1 
-3 
-3 
-5 
-9 
-2 
-2 
-1 
-4 
-7 
-9 
-9 
-3
+1   
+3   
+3   
+5   
+9   
+2   
+2   
+1   
+4   
+7   
+9   
+9   
+3  
 
 ## How To Run
 Compile with:
