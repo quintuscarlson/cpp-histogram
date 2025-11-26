@@ -25,7 +25,7 @@ This project implements a simple histogram data structure that reads integer val
 4. The main program outputs the statistics, prints the histogram, and demonstrates histogram merging.
 
 ## File Requirements
-Provide a text file containing integers from 1–9 separated by newlines. Example:
+Provide a text file containing integers from 1–9 separated by newlines. Example:  
 1   
 3   
 3   
@@ -42,25 +42,25 @@ Provide a text file containing integers from 1–9 separated by newlines. Exampl
 
 ## How To Run
 Compile with:
-g++ main.cpp histogram.cpp -o histogram
+g++ main.cpp histogram.cpp -o histogram  
 Run with:
 ./histogram
 
 ## Example Output
-Size: 14
-Min: 1
-Max: 9
-Mode: 3
-Median: 3
-Mean: 4.14
-Variance: 6.62
-1: **
-2: **
-3: ***
-4: *
-5: *
-7: *
-9: ***
+Size: 14  
+Min: 1  
+Max: 9  
+Mode: 3  
+Median: 3  
+Mean: 4.14  
+Variance: 6.62  
+1: **  
+2: **  
+3: ***  
+4: *  
+5: *  
+7: *  
+9: ***  
 
 ## Project Structure
 - main.cpp — demonstration program
