@@ -1,10 +1,10 @@
 # Histogram Program (C++)
 
 ## Overview
-This project implements a simple histogram data structure that reads integer values from a text file and counts the frequency of each value from 1 through 9. The main program demonstrates how to load data, print histogram statistics, and combine two histograms using operator overloading.
+This project implements a simple histogram data structure that reads integer values from a text file and counts the frequency of each value. The main program demonstrates how to load data, print histogram statistics, and combine two histograms using operator overloading.
 
 ## Features
-- Reads integers in the range 1–9 from one or more input files
+- Reads integers from one or more input files
 - Counts occurrences of each value
 - Computes common statistics:
   - Minimum value with nonzero count
@@ -19,13 +19,13 @@ This project implements a simple histogram data structure that reads integer val
   - operator<< to print a formatted histogram
 
 ## How It Works
-1. The program reads integers from a file, ignoring any values outside the range 1–9.
+1. The program reads integers from a file.
 2. Each valid number increments the corresponding frequency counter.
 3. Statistics are computed by scanning the frequency array and, when needed, expanding counts into an ordered list for median calculation.
 4. The main program outputs the statistics, prints the histogram, and demonstrates histogram merging.
 
 ## File Requirements
-Provide a text file containing integers from 1–9 separated by newlines. Example:  
+Provide a text file containing integers separated by newlines. Example:  
 1   
 3   
 3   
