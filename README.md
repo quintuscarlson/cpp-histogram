@@ -77,4 +77,4 @@ Variance: 6.62
 - Encapsulation and class design
 
 ## Notes on Originality
-This project was based on an assignment with a starter skeleton provided by the instructor. The implementation of the histogram logic, statistics, and operator behavior reflects my work using that structure.This README does not claim exclusive authorship over the original skeleton, only over the work I added.
+This project was based on an assignment with a starter skeleton provided by the instructor. The implementation of the histogram logic, statistics, and operator behavior reflects my work using that structure. This README does not claim exclusive authorship over the original skeleton, only over the work I added.
