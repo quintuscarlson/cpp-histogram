@@ -25,7 +25,8 @@ This project implements a simple histogram data structure that reads integer val
 4. The main program outputs the statistics, prints the histogram, and demonstrates histogram merging.
 
 ## File Requirements
-Provide a text file containing integers separated by newlines. Example:  
+Provide a text file containing integers separated by newlines.   
+**Example:**  
 1   
 3   
 3   
@@ -41,9 +42,9 @@ Provide a text file containing integers separated by newlines. Example:
 3  
 
 ## How To Run
-Compile with:
+**Compile with:**
 g++ main.cpp histogram.cpp -o histogram  
-Run with:
+**Run with:**
 ./histogram
 
 ## Example Output
@@ -76,4 +77,4 @@ Variance: 6.62
 - Encapsulation and class design
 
 ## Notes on Originality
-This project was based on an assignment with a starter skeleton provided by the instructor. The implementation of the histogram logic, statistics, and operator behavior reflects my work using that structure.
+This project was based on an assignment with a starter skeleton provided by the instructor. The implementation of the histogram logic, statistics, and operator behavior reflects my work using that structure.This README does not claim exclusive authorship over the original skeleton, only over the work I added.
